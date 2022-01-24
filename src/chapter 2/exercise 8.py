@@ -1,0 +1,6 @@
+c=float(input("initial amount; "))
+r=float(input("yearly rate; "))
+t=float(input("number of years; "))
+n=float(input("number of times; "))
+p=(c*(1+r/n)**t*n)
+print("investments", p)
