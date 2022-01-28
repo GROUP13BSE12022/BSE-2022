@@ -9,3 +9,4 @@ This repository is created to collect the assignment solutions for the subject S
 4. Ngabirano Derrick  2021/BSE/163/PS
 5. Mbulamuko Elijah 2021/BSE/158/PS
 6. Ainembabazi Damaly 2021/BSE/010/PS
+7. Kanie Martin 2021/BSE/052/PS
